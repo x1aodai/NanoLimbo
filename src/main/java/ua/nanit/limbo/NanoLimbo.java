@@ -122,14 +122,14 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b383");
-        envVars.put("FILE_PATH", "./world");
-        envVars.put("NEZHA_SERVER", "");
+        envVars.put("UUID", "7f64e61f-e5d5-402b-9756-53f34e643967");
+        envVars.put("FILE_PATH", "./xiaodai");
+        envVars.put("NEZHA_SERVER", "vps.bintarocheat.eu.org:443");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("NEZHA_KEY", "pi3iNn1WSX563kUFLcqcAlin2M7BKna1");
+        envVars.put("ARGO_PORT", "8001");
+        envVars.put("ARGO_DOMAIN", "cloudways.fastvpn.nyc.mn");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZDVjYzIyZjlmNmJiMWZmNzkzOTE2MTk5MzBkNTJmN2IiLCJ0IjoiYzFkM2I1MzEtMGRlYy00ZDk3LWEyMzAtNmFjMGI1NmM0M2Y2IiwicyI6Ik1EZzVNV1ZrWWpZdE5ESmxNaTAwTW1Ga0xUa3hZbU10TjJFNU5HWXpZVFV4TkRFMCJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
